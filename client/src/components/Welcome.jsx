@@ -1,5 +1,6 @@
 import React from 'react'
 import logo from './package.svg'
+import { motion } from "framer-motion"
 
 function Welcome() {
   return (
