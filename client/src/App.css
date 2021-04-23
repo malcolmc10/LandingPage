@@ -13,4 +13,65 @@
   align-items: center;
   justify-content: center;
   font-size: 3rem;
+  background-color: #101357;
+  
 }
+
+.welcome {
+  text-align: center;
+  padding: 40px;
+
+}
+
+.intro {
+  margin-bottom: 20px;
+  color: #fdfab7;
+}
+
+.description {
+  margin-bottom: 30px;
+  color: white;
+}
+
+.magic-word {
+  color: #fea49f;
+}
+
+.logo {
+  height: 150px;
+  width: 150px;
+}
+
+/* .split {
+  height: 100%;
+  width: 50%;
+  position: fixed;
+  display: flex;
+  z-index: 1;
+  top: 0px;
+  overflow-x: hidden;
+  padding-top: 20px;
+}
+
+.left {
+  left: 0;
+  text-align: center;
+}
+
+.right {
+  right: 0;
+
+}
+
+.centered {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+}
+
+.centered h1 {
+  width: 150px;
+  
+} */

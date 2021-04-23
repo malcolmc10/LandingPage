@@ -1,9 +1,16 @@
 import React from 'react'
+import Welcome from '../components/Welcome'
 
 function Home() {
   return (
     <div className="home">
-      <h1>Home</h1>
+
+      <Welcome />
+         
+      
+      
+      
+      
       
     </div>
   )
