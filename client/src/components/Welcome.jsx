@@ -7,8 +7,8 @@ function Welcome() {
     <div className="welcome" >
       <div className="split left">
         <div className="centered">
-          <h1 className="intro">Hi, We're Scrappy!</h1>
-          <p className="description">The<span className="magic-word">app</span> that helps you find<span className="magic-word">boxes</span> when you need them most.</p>
+          <h1 className="intro">Hi, I'm Colin Malcolm!</h1>
+          <p className="description">I'm a<span className="magic-word">Software Engineer</span> with experience in<span className="magic-word">Frontend and Backend</span> technologies.</p>
         </div>    
       </div>
 
