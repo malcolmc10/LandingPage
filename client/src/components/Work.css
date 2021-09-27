@@ -1,4 +1,16 @@
 .work {
   background-color: #fdfab7;
+  /* padding-top: 150px; */
+}
+
+.dot {
+  height: 225px;
+  width: 225px;
+  background-color: #fdfab7;
+  border-radius: 50%;
+  display: inline-block;
+  margin-left: 80px;
+  z-index: 10;
+  margin-top: -80px;
 }
 

@@ -5,7 +5,9 @@ class Work extends Component {
   render() {
     return (
       <div className="work">
-        <h1 >Hello World</h1>
+        <span class="dot"></span>
+       
+         <h1 >Hello World</h1>
       </div>
     );
   }
