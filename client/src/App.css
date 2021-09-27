@@ -5,6 +5,8 @@
   margin: 0;
   padding: 0;
   font-family: 'Quicksand', sans-serif;
+  height: auto;
+  width: auto;
 }
 
 .home, .contactus, .about {
@@ -50,22 +52,22 @@
 a.button2 {
 display: inline-block;
 padding: 0.5em 3em;
-border: 0.16em solid #FFFFFF;
+border: 0.16em solid #fdfab7;
 margin: 20px 0.3em 0.3em 0;
 box-sizing: border-box;
 text-decoration: none;
 text-transform: uppercase;
 /* font-family: 'Roboto', sans-serif; */
 font-weight: 100;
-color: #FFFFFF;
+color: #fdfab7;
 text-align: center;
 transition: all 0.15s;
 border-width: thin;
 font-size: 1.5rem;
 }
 a.button2:hover {
-  color: #fdfab7;
-  border-color: #fdfab7;
+  color: #fea49f;
+  border-color: #fea49f; 
   
 }
 
@@ -74,6 +76,12 @@ color: #fea49f;
 border-color: #fea49f;
 }
 
+@media all and (max-width:30em){
+  a.button2 {
+    display: block;
+    margin: 0.4em auto;
+  }
+}
 
 
   
