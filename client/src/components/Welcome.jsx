@@ -1,6 +1,6 @@
 import React from 'react'
-import logo from './package.svg'
-import { motion } from "framer-motion"
+// import logo from './package.svg'
+
 
 function Welcome() {
   return (
@@ -14,16 +14,16 @@ function Welcome() {
 
       
 
-      <div className="split right">
+      {/* <div className="split right">
         <div className="centered">
-        <img src={logo} alt="Avatar man" className="logo"/>
-
-        </div>
-
-      </div>
+          </div> 
+        </div> */}
 
 
-
+<div className="button_welcome">
+<a href="something" class="button2">Resume</a>
+<a href="something" class="button2">View My Work</a>
+</div>
 
 
 

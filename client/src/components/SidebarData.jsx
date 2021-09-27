@@ -20,7 +20,7 @@ export const SidebarData = [
     cName: 'nav-text'
   },
   {
-    title: 'Contact Us',
+    title: 'Contact Me',
     path: '/contactus',
     icon: <BiSupport />,
     cName: 'nav-text'

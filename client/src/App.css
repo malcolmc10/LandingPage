@@ -45,6 +45,42 @@
   width: 150px;
 }
 
+/* buttons */
+
+a.button2 {
+display: inline-block;
+padding: 0.5em 3em;
+border: 0.16em solid #FFFFFF;
+margin: 20px 0.3em 0.3em 0;
+box-sizing: border-box;
+text-decoration: none;
+text-transform: uppercase;
+/* font-family: 'Roboto', sans-serif; */
+font-weight: 100;
+color: #FFFFFF;
+text-align: center;
+transition: all 0.15s;
+border-width: thin;
+font-size: 1.5rem;
+}
+a.button2:hover {
+  color: #fdfab7;
+  border-color: #fdfab7;
+  
+}
+
+a.button2:active {
+color: #fea49f;
+border-color: #fea49f;
+}
+
+
+
+  
+  
+  
+  
+
 
 
 /* for the split screen effect: Below */
