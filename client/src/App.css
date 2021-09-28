@@ -21,6 +21,8 @@
 
 .home {
   background-color: #101357;
+  
+  
 }
 
 .welcome {
@@ -65,6 +67,7 @@ text-align: center;
 transition: all 0.15s;
 border-width: thin;
 font-size: 1.5rem;
+
 }
 a.button2:hover {
   color: #fea49f;
@@ -76,6 +79,8 @@ a.button2:active {
 color: #fea49f;
 border-color: #fea49f;
 }
+
+
 
 @media all and (max-width:30em){
   a.button2 {

@@ -7,7 +7,7 @@ class Work extends Component {
       <div className="work">
         <span class="dot"></span>
        
-         <h1 >Hello World</h1>
+         <h1 className="projectheading">Projects</h1>
       </div>
     );
   }
