@@ -21,7 +21,7 @@ function Welcome() {
 
 
 <div className="button_welcome">
-<a href="something" class="button2 ">Resume</a>
+<a href="https://pdfhost.io/v/NsnhIGvUj_Colin_Malcolm_Resume_2021" class="button2 ">Resume</a>
 <a href="something" class="button2 ">View My Work</a>
 </div>
 

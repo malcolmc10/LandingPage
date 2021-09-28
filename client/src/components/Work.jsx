@@ -5,9 +5,12 @@ class Work extends Component {
   render() {
     return (
       <div className="work">
-        <span class="dot"></span>
+        {/* <span class="dot"></span> */}
        
-         <h1 className="projectheading">Projects</h1>
+        <h1 className="projectheading">Projects</h1>
+        
+
+
       </div>
     );
   }

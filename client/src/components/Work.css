@@ -3,7 +3,7 @@
   /* padding-top: 150px; */
 }
 
-.dot {
+/* .dot {
   height: 225px;
   width: 225px;
   background-color: #fdfab7;
@@ -12,12 +12,13 @@
   margin-left: 80px;
   z-index: 10;
   margin-top: -80px;
-}
+} */
 
 .projectheading {
   text-align: center;
   font-size: 70px;
   color: #101357;
+  font-weight: 900;
 
 
 }
