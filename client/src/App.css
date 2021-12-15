@@ -10,7 +10,7 @@
   width: auto;
 }
 
-.home, .contactus, .about {
+.home, .contactus, .about, .mywork {
   display: flex;
   height: 90vh;
   align-items: center;
@@ -22,6 +22,7 @@
 
 .home {
   background-color: #101357;
+  
   
   
 }

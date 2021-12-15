@@ -25,4 +25,10 @@ export const SidebarData = [
     icon: <BiSupport />,
     cName: 'nav-text'
   },
+  {
+    title: 'Projects',
+    path: '/mywork',
+    icon: <BiSupport />,
+    cName: 'nav-text'
+  },
 ]
