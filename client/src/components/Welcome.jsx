@@ -1,5 +1,6 @@
 import React from 'react'
 // import logo from './package.svg'
+import MyWork from '../pages/MyWork'
 
 
 
@@ -23,8 +24,11 @@ function Welcome() {
 
 <div className="button_welcome">
 <a href="https://pdfhost.io/v/NsnhIGvUj_Colin_Malcolm_Resume_2021" rel="noreferrer" target="_blank"  class="button2 ">Resume</a>
-<a href="something" class="button2 ">View My Work</a>
+<a href="/mywork" class="button2 ">View My Work</a>
       </div>
+
+
+
       
 
 

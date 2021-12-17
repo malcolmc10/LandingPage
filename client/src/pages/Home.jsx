@@ -6,11 +6,13 @@ import Welcome from '../components/Welcome'
 
 
 
+
 function Home() {
   return (
     <div className="home">
 
       <Welcome />
+      
       
       
       

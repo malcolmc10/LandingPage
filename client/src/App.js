@@ -9,12 +9,14 @@ import MyWork from './pages/MyWork';
 
 
 
+
 function App() {
   return (
     <>
       <Router>
 
         <Navbar />
+        
         
         <Switch>
           <Route path='/' exact component={Home} />
@@ -26,7 +28,7 @@ function App() {
     </Switch>
       </Router>
       
-      {/* <Work/> */}
+      
      
       
 

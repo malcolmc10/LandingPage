@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import './Work.css';
-import { AiFillGithub } from "react-icons/ai"
-import {CgBrowser} from "react-icons/cg"
+// import { AiFillGithub } from "react-icons/ai"
+// import {CgBrowser} from "react-icons/cg"
 // import Box from "./components/Box.png"
 // import Clima from "./components/Clima.png"
 // import Covid from "./components/Covid.png"
